@@ -1,5 +1,7 @@
 # 🚖 OLA Ride Analytics Dashboard
 
+<img width="1317" height="747" alt="Screenshot 2026-04-22 214634" src="https://github.com/user-attachments/assets/1400d7f8-6635-4ed1-b08a-ff4a5f7276f7" />
+
 ## 📌 Project Overview
 This project is an end-to-end data analytics solution designed to evaluate the operational performance, revenue streams, and customer satisfaction metrics of OLA ride-sharing services for **July 2024**.
 
